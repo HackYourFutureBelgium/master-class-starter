@@ -12,6 +12,24 @@ lay out a self-study path for this topic. Include where each workshop should bel
 
 ---
 
+# Suggested Study
+
+study references organized by topic.
+
+## Overviews
+
+things like books or tutorials that cover bits of everything.
+
+## Topic 1
+
+focused resources like an article, a shorter video, ...
+
+## Topic 2
+
+...
+
+---
+
 ## Other Headers
 
 ...
